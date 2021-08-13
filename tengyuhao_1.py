@@ -1,5 +1,5 @@
 """
-project shared
+team project
 """
 
 print("Hello World !")
